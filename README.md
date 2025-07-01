@@ -1,20 +1,27 @@
-# 👋 Hi, I'm Muhammad Ibrahim Zafar
+# Hi there! 👋
 
-🎓 Final Year BSCS Student at FAST  
-💻 Passionate about full-stack development, automation & AI  
-🛠️ Currently building: [insert current project or idea]
+---
 
-## 🔧 Tech Stack
-- 💻 Languages: Python, JavaScript (TypeScript), Java, C++
-- 🌐 Web Dev: React, Next.js, Tailwind, Bootstrap
-- 🗃️ Databases: Firebase, MySQL, MongoDB
-- ⚙️ Tools: Git, VSCode, Postman, Figma, Redux
+I'm **Ibrahim Zafar** (aka `strawberryeleven`), a final-year Computer Science student at FAST-NUCES Lahore.  
+I'm a curious and enthusiastic developer who loves exploring new technologies every day.
 
-## 📂 Highlight Projects
-- [Timetable Reader](link) — Python app for automated timetable editing (role-based login system)
-- [Next.js UI Revamp](link) — Reworked frontend design using Material UI
-- [E-Commerce Admin Dashboard](link) — With Clerk auth, Redux state, Tailwind UI
+---
 
-## 📫 Connect with Me
-- [LinkedIn](your-linkedin-link)
-- [Twitter](if any)
+## 👨‍💻 What I'm Into:
+- 🤖 Full-stack development, Mobile apps (Android, Swift), and AI/ML
+- 🧠 Currently working on my Final Year Project: **Car Damage Detection using YOLOv8**  
+  Planning to deploy it as an open-source mobile app!
+- 📱 Love building smart, user-friendly interfaces and apps
+
+---
+
+## 🌱 Learning & Exploring:
+- Mobile App Dev with **Java** and **Swift**
+- AI/ML workflows with Python & YOLO
+- Open-source collaboration and deployment pipelines
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn]((https://www.linkedin.com/in/ibrahimz11/))  
+
