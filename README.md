@@ -1,27 +1,16 @@
-# Hi there! 👋
+# Hello! 👋
 
----
+I'm **Ibrahim** (`strawberryeleven`), a final-year Software Engineering student at FAST-NUCES Lahore.
 
-I'm **Ibrahim Zafar** (aka `strawberryeleven`), a final-year Computer Science student at FAST-NUCES Lahore.  
-I'm a curious and enthusiastic developer who loves exploring new technologies every day.
+- 💻 Enthusiastic about **full-stack web development**, with a focus on building scalable and user-centric applications  
+- 📱 Exploring **mobile application development**, currently learning React Native and Swift  
+- 🤖 Deeply interested in **Artificial Intelligence and Machine Learning**, particularly in applied computer vision
 
----
+🎓 Currently working on my Final Year Project:  
+**"AI-Powered Car Damage Detection and Severity Estimation Using Multi-Angle Images"** — aimed at enhancing insurance claim workflows through intelligent automation and mobile deployment.
 
-## 👨‍💻 What I'm Into:
-- 🤖 Full-stack development, Mobile apps (Android, Swift), and AI/ML
-- 🧠 Currently working on my Final Year Project: **Car Damage Detection using YOLOv8**  
-  Planning to deploy it as an open-source mobile app!
-- 📱 Love building smart, user-friendly interfaces and apps
+🚀 Leading the development of **CollabIn**, a web-based influencer marketing platform.  
+🚀 Currently leading the development of CollabIn — a web-based influencer marketing platform that connects brands with creators through campaign management and real-time communication.
+I'm responsible for building the application from scratch, focusing on frontend development, feature integration, and overall architecture.
 
----
-
-## 🌱 Learning & Exploring:
-- Mobile App Dev with **Java** and **Swift**
-- AI/ML workflows with Python & YOLO
-- Open-source collaboration and deployment pipelines
-
----
-
-## 📫 Let's Connect
-- [LinkedIn]((https://www.linkedin.com/in/ibrahimz11/))  
-
+Always eager to collaborate, learn, and contribute to meaningful tech solutions.
