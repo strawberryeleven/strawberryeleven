@@ -11,6 +11,5 @@ I'm **Ibrahim** (`strawberryeleven`), a final-year Software Engineering student 
 
 🚀 Currently leading the development of **CollabIn**:  
 A web-based influencer marketing platform that connects brands with creators through campaign management and real-time communication. I’m responsible for building the MVP from the ground up, including frontend development, feature integration, and overall architecture.
-Tech Stack: `Next.js`, `Tailwind CSS`, `Zustand`, `Zod`, `Firebase`, `Node.js`.
 
 Always eager to collaborate, learn, and contribute to meaningful tech solutions.
