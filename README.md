@@ -1,15 +1,13 @@
 # Hello jee! 👋
 
-I'm **Ibrahim** (`strawberryeleven`), a final-year Software Engineering student at FAST-NUCES Lahore.
+I'm **Ibrahim**, aka `strawberryeleven`, a software engineer in Lahore working across backend, frontend and hardware.
 
-- 💻 Enthusiastic about **full-stack web development**, with a focus on building scalable and user-centric applications  
-- 📱 Exploring **mobile application development**, currently learning React Native and Swift  
-- 🤖 Deeply interested in **Artificial Intelligence and Machine Learning**, particularly in applied computer vision
+- Currently working on production systems in Go, TypeScript and Python
+- Built a Go Apple MDM server with Apple-attested enrollment and Declarative Device Management
+- Built App Store and Google Play subscription billing, live with paying users
+- Built an MQTT transport for a Raspberry Pi test-automation platform, and packaged it for on-site installs
+- On the side: a RAG news analyzer that compares how outlets frame the same story, and YOLO11 vehicle-damage detection
 
-🎓 Currently working on my Final Year Project:  
-**"AI-Powered Car Damage Detection and Severity Estimation"** — a computer vision system aimed at improving insurance claim workflows through intelligent automation and mobile deployment.
+**Stack:** NestJS · Fastify · React · Next.js · PostgreSQL · MongoDB · Redis · Docker · MQTT
 
-🚀 Currently leading the development of **CollabIn**:  
-A web-based influencer marketing platform that connects brands with creators through campaign management and real-time communication. I’m responsible for building the MVP from the ground up, including frontend development, feature integration, and overall architecture.
-
-Always eager to collaborate, learn, and contribute to meaningful tech solutions.
+Always happy to talk shop.
