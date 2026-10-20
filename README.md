@@ -8,6 +8,4 @@ I'm **Ibrahim**, aka `strawberryeleven`, a software engineer in Lahore working a
 - Built an MQTT transport for a Raspberry Pi test-automation platform, and packaged it for on-site installs
 - On the side: a RAG news analyzer that compares how outlets frame the same story, and YOLO11 vehicle-damage detection
 
-**Stack:** NestJS · Fastify · React · Next.js · PostgreSQL · MongoDB · Redis · Docker · MQTT
-
-Always happy to talk shop.
+Check out my [portfolio](https://ibrahimz.vercel.app).
